@@ -1,2 +1,1 @@
-# Demo
-https://echo-scribe-phi.vercel.app/
+# Demo: https://echo-scribe-phi.vercel.app/
